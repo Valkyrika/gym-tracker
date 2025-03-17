@@ -1,0 +1,8 @@
+{
+  "name": "GymTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "1e7cb597"
+}
